@@ -9,7 +9,7 @@ A game where you create your very own zoo. With over 100 animals (and counting),
   Basic program for the shop, the animal book, and the zoo. The zoo is still in testing. 
 
   # 0.1.1
-  Miscellaneous added, new, easier way to get animals into the game. This allows me to copy and paste animals simply using a text file. |
+  Miscellaneous added, new, easier way to get animals into the game. This allows me to copy and paste animals simply using a text file.
 
 # In the Future
   # 0.1.2
