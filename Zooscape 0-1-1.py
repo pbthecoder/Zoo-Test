@@ -64,9 +64,6 @@ def gen_shop():
             shop_cost.append(str(random.randint(30000, 2000000))) #30,000 and 2,000,000
     else:
         return None
-    
-def clear_screen():
-    os.system('clear')  # This clears the console in macOS and Linux
 
 
     
@@ -104,7 +101,7 @@ while True:
                 screen = "animal book"
             if inp == "codes":
                 screen = "codes"
-            clear_console()
+            
         else:
             print("There are many things to do in the zoo. Here are some of them")
             print("'shop' to view animals on sale")
@@ -122,7 +119,7 @@ while True:
                 screen = "codes"
             if inp == "exit":
                 quit()
-            clear_console()
+            
         
     
     if screen == "shop":
