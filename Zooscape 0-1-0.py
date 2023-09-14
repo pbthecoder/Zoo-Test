@@ -5,7 +5,6 @@ import os
 from datetime import datetime
 import sys
 
-#N LINES!
 
 animal_name_file = open("./animal_name.txt")
 animal_list = []
@@ -61,7 +60,7 @@ def gen_shop():
             shop_animals.append(animal_name_gen.generate_animal_name())
             shop_ages.append(str(random.randint(1, 22)))
             shop_species.append(gen_anim())
-            shop_cost.append(str(random.randint(30000, 2000000)))
+            shop_cost.append(str(random.randint(30000, 2000000))) #30,000 and 2,000,000
     else:
         return None
     
