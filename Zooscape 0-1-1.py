@@ -72,7 +72,7 @@ def gen_shop():
 while True:
     if screen == "homescreen":
 
-        print("Zooscape 0.5.1".center(100," "))
+        print("Zooscape 0.1.1".center(100," "))
         
         print()
         
