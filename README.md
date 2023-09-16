@@ -2,7 +2,7 @@
 
 
 # Welcome to Zooscape, 
-A game where you create your very own zoo. With over 100 animals (and counting), this zoo allows you to make the zoo of your dreams. 
+A game where you create your very own zoo. With over 200 animals (and counting), this zoo allows you to make the zoo of your dreams. 
 
 # Update Log
   # 0.1.0
