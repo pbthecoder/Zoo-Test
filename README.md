@@ -1,4 +1,4 @@
-# "Zoo test" aka. Zooscape 0.1.1
+# "Zoo test" aka. Zooscape 0.1.1.5
 
 
 # Welcome to Zooscape, 
@@ -14,6 +14,9 @@ A game where you create your very own zoo. With over 300 animals (and counting),
 
   # 0.1.1
   Miscellaneous added
+
+  # 0.1.1.5 Errors
+  Bugs arrived and 
 
 # In Development
   # 0.1.2
