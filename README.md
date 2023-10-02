@@ -10,13 +10,13 @@ A game where you create your very own zoo. With over 300 animals (and counting),
 
 # Update Log
   # 0.1.0
-  Basic program for the shop, the animal book, and the zoo. The zoo is still in testing. A new, easier way to get animals into the game. This allows me to   copy and paste animals simply using a text file
+  Basic program for the shop, the animal book, and the zoo. The zoo is still in testing. A new, easier way to get animals into the game. This allows me to copy and paste animals simply using a text file
 
   # 0.1.1
   Miscellaneous added
 
   # 0.1.1.5 Errors
-  Bugs arrived and 
+  Bugs arrived and now the only page you can open is Shop. Even with that being the only page you can open, it now has an unidentified bug. So development continues
 
 # In Development
   # 0.1.2
