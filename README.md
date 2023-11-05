@@ -1,5 +1,5 @@
 # "Zoo test" aka. Zooscape 0.1.1.5
-Hours spent: 24  |   Versions Made: 3  |   Animals: 301/2000  |   Contributors: 1  |   Languages: 1 (English)  |   Commits: 26
+Hours spent: 24  |   Versions Made: 3  |   Animals: 301/2000  |   Contributors: 1  |   Languages: 1 (English)  |   Commits: 28
 
 # Welcome to Zooscape, 
 A game where you create your very own zoo. With over 300 animals (and counting), this zoo allows you to make the zoo of your dreams. 
@@ -18,13 +18,19 @@ A game where you create your very own zoo. With over 300 animals (and counting),
   # 0.1.1.5 Errors
   Bugs arrived and now the only page you can open is Shop. Even with that being the only page you can open, it now has an unidentified bug. So development continues
 
+  # 0.1.1.6 Errors Fixed (Opening Page Error)
+  Jupyter Notebook changes fixed the problem. It is now not a problem
+
 # In Development
   # 0.1.2
   Finished exit function, finished misc. programs and pages
 
 # In the Future
   # 0.1.3
-  Zoo update- health, hunger, and death
+  Zoo update- health, hunger, and death (hopefully)
+
+  # Expansion Packs Brainstorming
+  Expansion Packs will be decided and then will be made accordingly. Currently there are no packs
 
   # Expansion Packs 0.0.5 - 0.0.8
   Setup code for Expansion Packs
