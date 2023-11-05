@@ -1,5 +1,5 @@
 # "Zoo test" aka. Zooscape 0.1.1.6
-Hours spent: 24  |   Versions Made: 5  |   Animals: 301/2000  |   Contributors: 1  |   Languages: 1 (English)  |   Commits: 32
+Hours spent: 28  |   Versions Made: 6  |   Animals: 300/2000  |   Contributors: 1  |   Languages: 1 (English)  |   Commits: 34
 
 # Welcome to Zooscape, 
 A game where you create your very own zoo. With over 300 animals (and counting), this zoo allows you to make the zoo of your dreams. 
@@ -26,17 +26,20 @@ A game where you create your very own zoo. With over 300 animals (and counting),
 
 # In Development
   # Expansion Packs Brainstorming
-    Setting up which animals are in which packs. 
+  Setting up which animals are in which packs. 
 
-    Current Packs:
-    Realm Pack
+  Current Packs:
+  Realm Pack
     -Kevin's Hamster
     -Phoenix Cat (FCPA)
-    Indian Pack
+  Indian Pack
     -Gaur
     -Dhole
     -Gharial
     -Great Indian Bustard
+  Packs will contain the following:
+  A number of animals + habitats
+  Some Promo Codes
 # In the Future
   # 0.1.3
   I have no ideas
