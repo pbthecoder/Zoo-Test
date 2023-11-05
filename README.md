@@ -1,5 +1,5 @@
 # "Zoo test" aka. Zooscape 0.1.1.6
-Hours spent: 24  |   Versions Made: 3  |   Animals: 301/2000  |   Contributors: 1  |   Languages: 1 (English)  |   Commits: 29
+Hours spent: 24  |   Versions Made: 5  |   Animals: 301/2000  |   Contributors: 1  |   Languages: 1 (English)  |   Commits: 30
 
 # Welcome to Zooscape, 
 A game where you create your very own zoo. With over 300 animals (and counting), this zoo allows you to make the zoo of your dreams. 
@@ -21,16 +21,25 @@ A game where you create your very own zoo. With over 300 animals (and counting),
   # 0.1.1.6 Errors Fixed (Opening Page Error)
   Jupyter Notebook changes fixed the problem. It is now not a problem
 
-# In Development
   # 0.1.2
   Finished exit function, finished misc. programs and pages
 
+# In Development
+  # Expansion Packs Brainstorming
+    Setting up which animals are in which packs. 
+
+    Current Packs:
+    Realm Pack
+    -Kevin's Hamster
+    -Phoenix Cat (FCPA)
+    Indian Pack
+    -Gaur
+    -Dhole
+    -Gharial
+    -Great Indian Bustard
 # In the Future
   # 0.1.3
-  Zoo update- health, hunger, and death (hopefully)
-
-  # Expansion Packs Brainstorming
-  Expansion Packs will be decided and then will be made accordingly. Currently there are no packs
+  I have no ideas
 
   # Expansion Packs 0.0.5 - 0.0.8
   Setup code for Expansion Packs
