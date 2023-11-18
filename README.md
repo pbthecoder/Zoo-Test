@@ -1,5 +1,5 @@
 # "Zoo test" aka. Zooscape 0.1.2.0
-Hours spent: 28  |   Versions Made: 6  |   Animals: 300/2000  |   Contributors: 1  |   Languages: 1 (English)  |   Commits: 34   |   Expansion Packs: 2   |   Expansion Pack Animals: 6
+Hours spent: 28  |   Versions Made: 6  |   Animals: 300/2000  |   Contributors: 1  |   Languages: 1 (English)  |   Commits: 35   |   Expansion Packs: 2   |   Expansion Pack Animals: 6
 
 # Welcome to Zooscape, 
 A game where you create your very own zoo. With over 300 animals (and counting), this zoo allows you to make the zoo of your dreams. 
@@ -40,10 +40,11 @@ A game where you create your very own zoo. With over 300 animals (and counting),
   Packs will contain the following:
   A number of animals + habitats
   Some Promo Codes
-# In the Future
+  
   # 0.1.3
-  I have no ideas
-
+  Color and Boldness added. This will take a significant amount of time, due to the large amount of print statements in the program. 
+  
+# In the Future
   # Expansion Packs 0.0.5 - 0.0.8
   Setup code for Expansion Packs
 
