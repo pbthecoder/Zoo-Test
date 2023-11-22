@@ -1,0 +1,299 @@
+African Lion
+Bengal Tiger
+Asian Elephant
+African Savanna Elephant
+Reticulated Giraffe
+Grizzly Bear
+Polar Bear
+Nile Crocodile
+Jaguar
+Red Panda
+American Black Bear
+Rhesus Macaque
+Red Fox
+Killer Whale
+Common Dolphin
+Harbor Porpoise
+African Penguin
+Western Chimpanzee
+Mountain Gorilla
+Eastern Lowland Gorilla
+European Hare
+Red Deer
+Leopard
+Bobcat
+Eurasian Lynx
+Gray Wolf
+Least Weasel
+Eurasian Otter
+European Badger
+Brown Bear
+Northern Koala
+Common Wombat
+African Forest Elephant
+Brown Lemur
+Western Spadefoot Toad
+Bald Eagle
+Peregrine Falcon
+Grevy's Zebra
+Grant's Gazelle
+Giant Panda
+Arctic Fox
+California Sea Lion
+Common Hippopotamus
+White Rhino
+South African Ostrich
+Komodo Dragon
+Bornean Orangutan
+Pygmy Three-Toed Sloth
+Chilean Flamingo
+Snow Leopard
+Nine-Banded Armadillo
+Jackson's Chameleon
+Chinese Pangolin
+Siberian Tiger
+North American Cougar
+Cheetah
+Western Lowland Gorilla
+Gila Monster
+King Cobra
+Toco Toucan
+Rhinoceros Beetle
+Atlantic Walrus
+Caracal
+Firefly
+Siberian Lynx
+Ruby-Throated Hummingbird
+Aardvark
+Common Chinchilla
+North American Beaver
+Coyote
+Cape Porcupine
+Green Iguana
+Kookaburra
+California Newt
+Quokka
+Great Basin Rattlesnake
+Tiger Salamander
+Malayan Tapir
+Monarch Butterfly
+Dromedary Camel
+Golden Eagle
+American Bullfrog
+Cross River Gorilla
+Red Hawk
+Scarlet Ibis
+Eastern Grey Kangaroo
+Llama
+Sumatran Tiger
+Sunda Flying Lemur
+Bengal Fox
+Madagascar Fruit Bat
+Puma
+Indonesian Borneo Orangutan
+Giant Anteater
+African Leopard
+Eurasian Jackal
+Greater Flamingo
+Capybara
+Siberian Musk Deer
+Western Spotted Skunk
+Eastern Box Turtle
+Echidna
+African Wild Dog
+Plains Zebra
+Gray Whale
+Amur Falcon
+Giant Isopod
+Mandrill
+Blue Jay
+Gaur
+Central American Tapir
+Black Mamba
+Javan Rhino
+Banded Palm Civet
+Mongoose
+African Wild Donkey
+Sloth Bear
+Red Kangaroo
+Emu
+Dingo
+Pudu
+African Buffalo
+Bharal
+Muntjac
+Sumatran Rhinoceros
+Bonobo
+Banded Gila Monster
+Common Ostrich
+White-Breasted Nuthatch
+Platypus
+Green Sea Turtle
+Northern Fur Seal
+Fennec Fox
+Hedgehog
+Dugong
+Ocelot
+Maned Wolf
+Harpy Eagle
+Green Anaconda
+Asiatic Lion
+Lar Gibbon
+Wild Fowl
+North Atlantic Sea Otter
+Amazon Rainforest Jaguar
+Sumatran Orangutan
+Giant Anteater
+African Elephant Seal
+South American Cheetah
+Australian Bat
+Pacific Ocean Sea Turtle
+American Alligator
+Ring-Tailed Lemur
+Southeast Asian Peacock
+South American Toucan
+Linnaeus's two-toed Sloth
+North American Raccoon
+Giant Armadillo
+North American Porcupine
+South American Uakari
+Wallaby
+Himalayan Yak
+African Spotted Hyena
+Australian Green Tree Frog
+Asian Water Buffalo
+European Red Squirrel
+South American Coati
+Arctic Tern
+African White Rhinoceros
+South American Pink River Dolphin
+Asian Water Monitor
+Australian Brush Turkey
+Amazon Rainforest Poison Dart Frog
+African Grey Parrot
+North American River Otter
+Eurasian Red Deer
+South American Red-eyed Tree Frog
+Asian Small-clawed Otter
+Australian Frilled Lizard
+African Rock Python
+European Hedgehog
+North American Chipmunk
+South American Giant River Otter
+Asian Sun Bear
+Australian Kookaburra
+African Jacana
+Virginia Opossum
+Snowy Owl
+Amazon Harpy Eagle
+Leafcutter Ant Colony
+Marabou Stork
+Barn Owl
+African Elephant Shrew
+Eastern Cottontail
+South American Howler Monkey
+Red Junglefowl
+Australian Rainbow Lorikeet
+Fire Salamander
+Wild Turkey
+Red-eyed Tree Frog
+South American Black Caiman
+Long-necked Turtle
+Asian Giant Hornet
+Sugar Glider
+Thorny Devil
+Mule Deer
+Narwhal
+African Spurred Tortoise
+Hairy-nosed Wombat
+Vicuña
+North American Flying Squirrel
+Arctic Fox
+Yellow Mongoose
+European Barn Swallow
+Chinese Water Dragon
+Amazon Giant River Turtle
+Red Howler Monkey
+North American Screech Owl
+Golden Wolf
+European Polecat
+Asian Palm Civet
+Short-beaked Echidna
+Arctic Hare
+Andean Condor
+Virginia Deer
+African Civet
+Asian Indian Peafowl
+Australian Common Brushtail Possum
+Amazon Scarlet Macaw
+South American Giant Anteater
+North American Marten
+Arctic Tern
+African Sacred Ibis
+European Mole
+Asian Black Bear
+Australian Magpie
+Brazilian Wandering Spider
+North American Eastern Newt
+African Lungfish
+Asian Tiger Mosquito
+Australian Fur Seal
+Arctic Snow Goose
+South American Capybara
+Woodchuck
+African Spotted Eagle Owl
+Asian Bengal Monitor Lizard
+Australian Pelican
+Amazon River Dolphin
+South American Tapir
+North American Horned Frog
+African Rock Python
+Clouded Leopard
+Australian King Parrot
+Arctic Walrus
+Axolotl
+Cane Toad
+Reticulated Glass Frog
+Spotted Salamander
+Humboldt Penguin
+Chinstrap Penguin
+Adelie Penguin
+Blue-Footed Booby
+Mandarin Duck
+Whooping Crane
+Snowy Owl
+Turkey Vulture
+Amazon Royal Flycatcher
+Sage Grouse
+Burrowing Owl
+Raggiana Bird of Paradise
+Silkie Chicken
+Andean Cock-of-the-Rock
+Common Hoopoe
+King Vulture
+Secretarybird
+Great Frigatebird
+Victoria's Riflebird
+Mallard Duck
+Harp Seal
+Leopard Seal
+Northern Koala
+Common Wombat
+African Forest Elephant
+Brown Lemur
+Western Spadefoot Toad
+Grevy's Zebra
+Grant's Gazelle
+Giant Panda
+Arctic Fox
+California Sea Lion
+Common Hippopotamus
+White Rhino
+South African Ostrich
+Komodo Dragon
+Bornean Orangutan
+Pygmy Three-Toed Sloth
+Chilean Flamingo
+Scarlet Ibis
+Red Junglefowl
+Mudskipper
