@@ -28,15 +28,12 @@ Least Weasel
 Eurasian Otter
 European Badger
 Brown Bear
-Northern Koala
 Common Wombat
 African Forest Elephant
 Brown Lemur
 Western Spadefoot Toad
 Bald Eagle
 Peregrine Falcon
-Grevy's Zebra
-Grant's Gazelle
 Giant Panda
 Arctic Fox
 California Sea Lion
@@ -88,9 +85,8 @@ Llama
 Sumatran Tiger
 Sunda Flying Lemur
 Bengal Fox
-Madagascar Fruit Bat
+Madagascar Fruit BatDromedary Camel
 Puma
-Indonesian Borneo Orangutan
 Giant Anteater
 African Leopard
 Eurasian Jackal
@@ -112,7 +108,6 @@ Central American Tapir
 Black Mamba
 Javan Rhino
 Banded Palm Civet
-Mongoose
 African Wild Donkey
 Sloth Bear
 Red Kangaroo
@@ -147,10 +142,9 @@ Giant Anteater
 African Elephant Seal
 South American Cheetah
 Australian Bat
-Pacific Ocean Sea Turtle
 American Alligator
 Ring-Tailed Lemur
-Southeast Asian Peacock
+Green Peacock
 South American Toucan
 Linnaeus's two-toed Sloth
 North American Raccoon
@@ -162,22 +156,20 @@ Himalayan Yak
 African Spotted Hyena
 Australian Green Tree Frog
 Asian Water Buffalo
-European Red Squirrel
+Red Squirrel
 South American Coati
 Arctic Tern
 African White Rhinoceros
-South American Pink River Dolphin
+South American River Dolphin
 Asian Water Monitor
 Australian Brush Turkey
 Amazon Rainforest Poison Dart Frog
 African Grey Parrot
 North American River Otter
-Eurasian Red Deer
 South American Red-eyed Tree Frog
 Asian Small-clawed Otter
 Australian Frilled Lizard
 African Rock Python
-European Hedgehog
 North American Chipmunk
 South American Giant River Otter
 Asian Sun Bear
@@ -197,7 +189,7 @@ Australian Rainbow Lorikeet
 Fire Salamander
 Wild Turkey
 Red-eyed Tree Frog
-South American Black Caiman
+Black Caiman
 Long-necked Turtle
 Asian Giant Hornet
 Sugar Glider
@@ -221,30 +213,28 @@ Asian Palm Civet
 Short-beaked Echidna
 Arctic Hare
 Andean Condor
-Virginia Deer
 African Civet
-Asian Indian Peafowl
-Australian Common Brushtail Possum
-Amazon Scarlet Macaw
-South American Giant Anteater
-North American Marten
+Indian Peafowl
+Common Brushtail Possum
+Scarlet Macaw
+Giant Anteater
+Marten
 Arctic Tern
-African Sacred Ibis
+Sacred Ibis
 European Mole
 Asian Black Bear
 Australian Magpie
 Brazilian Wandering Spider
-North American Eastern Newt
+Eastern Newt
 African Lungfish
 Asian Tiger Mosquito
 Australian Fur Seal
 Arctic Snow Goose
-South American Capybara
+Capybara
 Woodchuck
-African Spotted Eagle Owl
+Spotted Eagle Owl
 Asian Bengal Monitor Lizard
 Australian Pelican
-Amazon River Dolphin
 South American Tapir
 North American Horned Frog
 African Rock Python
@@ -291,7 +281,6 @@ Common Hippopotamus
 White Rhino
 South African Ostrich
 Komodo Dragon
-Bornean Orangutan
 Pygmy Three-Toed Sloth
 Chilean Flamingo
 Scarlet Ibis
