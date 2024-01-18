@@ -1,10 +1,10 @@
 # "Zoo test" aka. Zooscape 0.1.2.0
-Hours spent: 28  |   Versions Made: 6  |   Animals: 300/2000  |   Contributors: 1  |   Languages: 1 (English)  |   Commits: 38   |   Expansion Packs: 2   |   Expansion Pack Animals: 6
+Hours spent: 58  |   Versions Made: 6  |   Animals: 288⌄/???  |   Contributors: 1  |   Languages: 1 (English)  |   Commits: 41   |   Expansion Packs: 2   |   Expansion Pack Animals: 6
 
 # Welcome to Zooscape, 
-A game where you create your very own zoo. With over 300 animals (and counting), this zoo allows you to make the zoo of your dreams. 
+A game where you create your very own zoo. With over 250 animals (and counting), this zoo allows you to make the zoo of your dreams. 
 
-"Welcome to the Zooscape, where your wildest dreams come to life! In this extraordinary zoo-building adventure, you have access to a vast library of over 2,000 animals. Unleash your creativity as you design a zoo beyond imagination, where bioengineering technology is at your fingertips. With the power to extract and alter DNA, you can create astonishing hybrids and abnormal bestial forms that push the boundaries of nature itself. But remember, with great power comes great responsibility. Treat the animals with care and respect, ensuring their welfare and providing them with biomes that are engineered to their species-specific needs. Immerse yourself in the universe of genetic manipulation and astonishing zoology practices in the Zoo of Imagination!"
+"Welcome to the Zooscape, where your wildest dreams come to life! In this extraordinary zoo-building adventure, you have access to a vast library of over ??? animals. Unleash your creativity as you design a zoo beyond imagination, where bioengineering technology is at your fingertips. With the power to extract and alter DNA, you can create astonishing hybrids and abnormal bestial forms that push the boundaries of nature itself. But remember, with great power comes great responsibility. Treat the animals with care and respect, ensuring their welfare and providing them with biomes that are engineered to their species-specific needs. Immerse yourself in the universe of genetic manipulation and astonishing zoology practices in the Zoo of Imagination!"
 -pb
 
 
@@ -81,3 +81,6 @@ A game where you create your very own zoo. With over 300 animals (and counting),
 
   # Genetic Manipulaion 0.0.2
   Tests for visible changes
+
+  # 0.1.4
+  A bit of storytelling at the start, maybe. I'm still not sure what to do here. 
