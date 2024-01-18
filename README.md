@@ -43,11 +43,29 @@ A game where you create your very own zoo. With over 300 animals (and counting),
   
   # 0.1.3
   Color and Boldness added. This will take a significant amount of time, due to the large amount of print statements in the program. 
+
+  UPDATE!
+  Mostly complete, with a few printing problems with the function that colors the text.
+  Just a few bugs needed to fix on the shop and the Animal Book. 
+  
+  # Genetic Manipulation 0.0.1
+  Tests for changing genes
+
+  UPDATE!
+  Currently in a new fule (not uploaded). This required a few new changes to the text files, and a few more text files have been added. 
+  It's looking pretty nice. 
+  
+  # Diversity 0.1.0
+  Melanin and other chemical changes in color caused by the cell changing
+
+  UPDATE!
+  Going the same way as GeneManip 0.0.1
   
 # In the Future
 
   # Habitats and Homes (Art Part)
   Start making the art for the whole game. This is going to take a pretty long time. 
+  The art will be similar to Rimworld animals. 
 
   # The Big Kahuna- Pygame Translations
   Oh no. All the code will (probably at some point) be moved to PyGame. That's a lot of code. 
@@ -61,11 +79,5 @@ A game where you create your very own zoo. With over 300 animals (and counting),
   # Expansion Packs 1.0.0
   First Expansion Pack
 
-  # Genetic Manipulation 0.0.1
-  Tests for changing genes
-
   # Genetic Manipulaion 0.0.2
   Tests for visible changes
-
-  # Diversity 0.1.0
-  Melanin and other chemical changes in color
