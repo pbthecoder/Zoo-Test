@@ -1,5 +1,5 @@
 # "Zoo test" aka. Zooscape 0.1.2.0
-Hours spent: 58  |   Versions Made: 6  |   Animals: 288⌄/???  |   Contributors: 1  |   Languages: 1 (English)  |   Commits: 41   |   Expansion Packs: 2   |   Expansion Pack Animals: 6
+Hours spent: 58  |   Versions Made: 6  |   Animals: 288⌄/???  |   Contributors: 1  |   Languages: 1 (English)   |   Expansion Packs: 2   |   Expansion Pack Animals: 6
 
 # Welcome to Zooscape, 
 A game where you create your very own zoo. With over 250 animals (and counting), this zoo allows you to make the zoo of your dreams. 
@@ -83,4 +83,9 @@ A game where you create your very own zoo. With over 250 animals (and counting),
   Tests for visible changes
 
   # 0.1.4
-  A bit of storytelling at the start, maybe. I'm still not sure what to do here. 
+  More plot will be added to this game, as well as some name-changing for the animals the player owns. More promo animals will be added. 
+
+  # Zoo vers. 2! (0.1.4)
+  In the new version, you can 1) buy new plots of land, 2) see more zoomed-in versions of the habitat itself with a combination of ASCII and Unicode artistic symbols, and 3) "zoom in" on the animals and see the animals' names, ages, and any other needed information about them. 
+
+  
