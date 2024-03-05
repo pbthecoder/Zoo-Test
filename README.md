@@ -1,4 +1,4 @@
-# "Zoo test" aka. Zooscape 0.1.2.0
+# "Zoo test" aka. Zooscape 0.1.3.0
 Hours spent: 240  |   Versions Made: 6  |   Animals: 288⌄/???  |   Contributors: 1  |   Languages: 1 (English)   |   Expansion Packs: 2   |   Expansion Pack Animals: 6
 
 # Welcome to Zooscape, 
@@ -23,6 +23,9 @@ A game where you create your very own zoo. With over 250 animals (and counting),
 
   # 0.1.2
   Finished exit function, finished misc. programs and pages
+
+  # MONKEYTESTPACK
+  The monkey test pack has been added, with four monkeys ready to get collected. 
 
 # In Development
   
