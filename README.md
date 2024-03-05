@@ -25,50 +25,25 @@ A game where you create your very own zoo. With over 250 animals (and counting),
   Finished exit function, finished misc. programs and pages
 
 # In Development
-  # Expansion Packs Brainstorming
-  Setting up which animals are in which packs. 
-
-  Current Packs:
-  Realm Pack
-    -Kevin's Hamster
-    -Phoenix Cat (FCPA)
-  Indian Pack
-    -Gaur
-    -Dhole
-    -Gharial
-    -Great Indian Bustard
-  Packs will contain the following:
-  A number of animals + habitats
-  Some Promo Codes
   
   # 0.1.3
   Color and Boldness added. This will take a significant amount of time, due to the large amount of print statements in the program. 
 
   UPDATE!
-  Mostly complete, with a few printing problems with the function that colors the text.
-  Just a few bugs needed to fix on the shop and the Animal Book. 
+  Color is complete for the most part.
   
   # Genetic Manipulation 0.0.1
   Tests for changing genes
 
   UPDATE!
-  Currently in a new fule (not uploaded). This required a few new changes to the text files, and a few more text files have been added. 
+  Currently in a new file (not uploaded). This required a few new changes to the text files, and a few more text files have been added. 
   It's looking pretty nice. 
-  
-  # Diversity 0.1.0
-  Melanin and other chemical changes in color caused by the cell changing
-
-  UPDATE!
-  Going the same way as GeneManip 0.0.1
   
 # In the Future
 
   # Habitats and Homes (Art Part)
   Start making the art for the whole game. This is going to take a pretty long time. 
   The art will be similar to Rimworld animals. 
-
-  # The Big Kahuna- Pygame Translations
-  Oh no. All the code will (probably at some point) be moved to PyGame. That's a lot of code. 
   
   # Expansion Packs 0.0.5 - 0.0.8
   Setup code for Expansion Packs
