@@ -1,5 +1,5 @@
 # "Zoo test" aka. Zooscape 0.1.2.0
-Hours spent: 58  |   Versions Made: 6  |   Animals: 288⌄/???  |   Contributors: 1  |   Languages: 1 (English)   |   Expansion Packs: 2   |   Expansion Pack Animals: 6
+Hours spent: 240  |   Versions Made: 6  |   Animals: 288⌄/???  |   Contributors: 1  |   Languages: 1 (English)   |   Expansion Packs: 2   |   Expansion Pack Animals: 6
 
 # Welcome to Zooscape, 
 A game where you create your very own zoo. With over 250 animals (and counting), this zoo allows you to make the zoo of your dreams. 
