@@ -29,11 +29,17 @@ A game where you create your very own zoo. With over 250 animals (and counting),
 
 # In Development
   
-  # 0.1.3
+  # 0.1.5
   Color and Boldness added. This will take a significant amount of time, due to the large amount of print statements in the program. 
 
   UPDATE!
   Color is complete for the most part.
+
+  UPDATE!
+  Now the Shop list is in a beautiful chart, where if hovering over, can see number. 
+
+  ERROR UPDATE!
+  Shop is not buying.
   
   # Genetic Manipulation 0.0.1
   Tests for changing genes
@@ -43,11 +49,6 @@ A game where you create your very own zoo. With over 250 animals (and counting),
   It's looking pretty nice. 
   
 # In the Future
-
-  # Habitats and Homes (Art Part)
-  Start making the art for the whole game. This is going to take a pretty long time. 
-  The art will be similar to Rimworld animals. 
-  
   # Expansion Packs 0.0.5 - 0.0.8
   Setup code for Expansion Packs
 
@@ -60,7 +61,7 @@ A game where you create your very own zoo. With over 250 animals (and counting),
   # Genetic Manipulaion 0.0.2
   Tests for visible changes
 
-  # 0.1.4
+  # 0.1.6
   More plot will be added to this game, as well as some name-changing for the animals the player owns. More promo animals will be added. 
 
   # Zoo vers. 2! (0.1.4)
