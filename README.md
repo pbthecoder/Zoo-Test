@@ -1,5 +1,5 @@
 # "Zoo test" aka. Zooscape 0.1.3.0
-Hours spent: 240  |   Versions Made: 6  |   Animals: 288⌄/???  |   Contributors: 1  |   Languages: 1 (English)   |   Expansion Packs: 2   |   Expansion Pack Animals: 6
+Hours spent: 247  |   Versions Made: 7  |   Animals: 268⌄/What am I doing with this?  |   Contributors: 1  |   Languages: 1 (English)   |   Expansion Packs: 1   |   Expansion Pack Animals: 4
 
 # Welcome to Zooscape, 
 A game where you create your very own zoo. With over 250 animals (and counting), this zoo allows you to make the zoo of your dreams. 
@@ -9,7 +9,7 @@ A game where you create your very own zoo. With over 250 animals (and counting),
 
 
 # Update Log
-  # 0.1.0
+  # 0.1.0 (Uguisu Ubuntu)
   Basic program for the shop, the animal book, and the zoo. The zoo is still in testing. A new, easier way to get animals into the game. This allows me to copy and paste animals simply using a text file
 
   # 0.1.1
@@ -27,26 +27,16 @@ A game where you create your very own zoo. With over 250 animals (and counting),
   # MONKEYTESTPACK
   The monkey test pack has been added, with four monkeys ready to get collected. 
 
-# In Development
-  
   # 0.1.5
-  Color and Boldness added. This will take a significant amount of time, due to the large amount of print statements in the program. 
+  Color and Boldness added. This will take a significant amount of time, due to the large amount of print statements in the program. The Shop List is in a beautiful chart. 
 
-  UPDATE!
-  Color is complete for the most part.
+# In Development 
+   # 0.1.6
+   More plot will be added to the game. More promo animals will be added, as well as being able to change names of the animals one buys. Another new feature is that now instead of not being able to earn money, visitors will come and visit. A new Credits / Licenses page will be added. 
 
-  UPDATE!
-  Now the Shop list is in a beautiful chart, where if hovering over, can see number. 
-
-  ERROR UPDATE!
-  Shop is not buying.
-  
-  # Genetic Manipulation 0.0.1
-  Tests for changing genes
-
-  UPDATE!
-  Currently in a new file (not uploaded). This required a few new changes to the text files, and a few more text files have been added. 
-  It's looking pretty nice. 
+   # Zoo Version 2 (Ithomiid Ubuntu)
+   In the new version, you can 1) buy new plots of land, 2) see more zoomed-in versions of the habitat itself with a combination of ASCII and Unicode artistic symbols, and 3) "zoom in" on the animals and see the animals' names, ages, and any other needed information about them. 
+   
   
 # In the Future
   # Expansion Packs 0.0.5 - 0.0.8
@@ -58,13 +48,9 @@ A game where you create your very own zoo. With over 250 animals (and counting),
   # Expansion Packs 1.0.0
   First Expansion Pack
 
-  # Genetic Manipulaion 0.0.2
-  Tests for visible changes
+  # 0.2.1
+  The ability to add items inside the zoo feature, like bushes and et cetra, will be added. So far, nothing much is being brainstormed. 
 
-  # 0.1.6
-  More plot will be added to this game, as well as some name-changing for the animals the player owns. More promo animals will be added. 
-
-  # Zoo vers. 2! (0.1.4)
-  In the new version, you can 1) buy new plots of land, 2) see more zoomed-in versions of the habitat itself with a combination of ASCII and Unicode artistic symbols, and 3) "zoom in" on the animals and see the animals' names, ages, and any other needed information about them. 
-
+  # First Playtester
+  A new playtester will hopefully come to test the game and this will fix some minor bugs. 
   
