@@ -1,4 +1,5 @@
 # "Zoo test" aka. Zooscape 0.1.3.0
+# Zooscape 0.1.5.0 © 2024 by pbthecoder is licensed under CC BY-NC-SA 4.0. You can see a copy of this here: https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1
 Hours spent: 247  |   Versions Made: 7  |   Animals: 268⌄/What am I doing with this?  |   Contributors: 1  |   Languages: 1 (English)   |   Expansion Packs: 1   |   Expansion Pack Animals: 4
 
 # Welcome to Zooscape, 
