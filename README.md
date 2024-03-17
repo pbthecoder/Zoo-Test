@@ -28,7 +28,7 @@ A game where you create your very own zoo. With over 250 animals (and counting),
   The monkey test pack has been added, with four monkeys ready to get collected. 
 
   # 0.1.5
-  Color and Boldness added. This will take a significant amount of time, due to the large amount of print statements in the program. The Shop List is in a beautiful chart. 
+  Color and Boldness added. Wait was also added, along with the first Genetic Lab and the Cellshop has nothing in it. The Shop List is in a beautiful chart. 
 
 # In Development 
    # 0.1.6
