@@ -25,7 +25,7 @@ A game where you create your very own zoo. With over 250 animals (and counting),
   # 0.1.2
   Finished exit function, finished misc. programs and pages
 
-  # MONKEYTESTPACK
+  # MONKEYTESTPACK (Exclusive only to Github)
   The monkey test pack has been added, with four monkeys ready to get collected. 
 
   # 0.1.5
@@ -33,10 +33,22 @@ A game where you create your very own zoo. With over 250 animals (and counting),
 
 # In Development 
    # 0.1.6
-   More plot will be added to the game. More promo animals will be added, as well as being able to change names of the animals one buys. Another new feature is that now instead of not being able to earn money, visitors will come and visit. A new Credits / Licenses page will be added. 
+   More plot will be added to the game. More promo animals will be added, as well as being able to change names of the animals one buys. Another new feature is that now instead of not being able to earn money, visitors will come and visit. A new Credits / Licenses page will be added.
+   Dev Update: C/L Page complete; visitors is now appearing but not based on popularity of animals. For example, even have 0 animals. Need to fix. 
+   Promos are not going to be made soon. 
 
    # Zoo Version 2 (Ithomiid Ubuntu)
    In the new version, you can 1) buy new plots of land, 2) see more zoomed-in versions of the habitat itself with a combination of ASCII and Unicode artistic symbols, and 3) "zoom in" on the animals and see the animals' names, ages, and any other needed information about them. 
+
+   # Zooscape Website
+   Zooscape now has a website. However, it is private. 
+   Features of the Website: 
+   Animal Book
+   Downloads
+   About the Game
+   Github
+   Home
+   DLCs
    
   
 # In the Future
