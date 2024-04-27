@@ -1,11 +1,11 @@
 # "Zoo test" aka. Zooscape 0.1.5.0
 # Zooscape 0.1.5.0 © 2024 by pbthecoder is licensed under CC BY-NC-SA 4.0. You can see a copy of this here: https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1
-Hours spent: 247  |   Versions Made: 7  |   Animals: 268⌄/What am I doing with this?  |   Contributors: 1  |   Languages: 1 (English)   |   Expansion Packs: 1   |   Expansion Pack Animals: 4
+Hours spent: 247  |   Versions Made: 7  |   Animals: 268⌄   What am I doing with this?  |   Contributors: 1  |   Languages: 1 (English)   |   Expansion Packs: 1   |   Expansion Pack Animals: 4
 
 # Welcome to Zooscape, 
 A game where you create your very own zoo. With over 250 animals (and counting), this zoo allows you to make the zoo of your dreams. 
 
-"Welcome to the Zooscape, where your wildest dreams come to life! In this extraordinary zoo-building adventure, you have access to a vast library of over ??? animals. Unleash your creativity as you design a zoo beyond imagination, where bioengineering technology is at your fingertips. With the power to extract and alter DNA, you can create astonishing hybrids and abnormal bestial forms that push the boundaries of nature itself. But remember, with great power comes great responsibility. Treat the animals with care and respect, ensuring their welfare and providing them with biomes that are engineered to their species-specific needs. Immerse yourself in the universe of genetic manipulation and astonishing zoology practices in the Zoo of Imagination!"
+"Welcome to the Zooscape, where your wildest dreams come to life! In this extraordinary zoo-building adventure, you have access to a vast library of over 200 animals. Unleash your creativity as you design a zoo beyond imagination, where bioengineering technology is at your fingertips. With the power to extract and alter DNA, you can create astonishing hybrids and abnormal bestial forms that push the boundaries of nature itself. But remember, with great power comes great responsibility. Treat the animals with care and respect, ensuring their welfare and providing them with biomes that are engineered to their species-specific needs. Immerse yourself in the universe of genetic manipulation and astonishing zoology practices in the Zoo of Imagination!"
 -pb
 
 
@@ -36,8 +36,21 @@ A game where you create your very own zoo. With over 250 animals (and counting),
    More plot will be added to the game. More promo animals will be added, as well as being able to change names of the animals one buys. Another new feature is that now instead of not being able to earn money, visitors will come and visit. A new Credits / Licenses page will be added.
    Dev Update: C/L Page complete; visitors is now appearing but not based on popularity of animals. For example, even have 0 animals. Need to fix. 
    Promos are not going to be made soon. 
+   Dev Update: Able to earn money. 
+   Dev Update: SECRET animal pack added. Coming soon. (le olde timers)
+   Dev Update: I guess I did finish my designs, so yea
+  # Zooscape 0.1.6 Character Designs
+  Talmua (Homescreen + Playscreen)
+  Sue Beckenberg (Shop)
+  Gregory Hausler (Zoo Page)
+  Pau Leekson (Zoo > Visitors)
+  Voltaire (Error Page, Credits)
+  Alia Mausafiya (Genetic Lab)
+  Bit Mausafiya (Animal Book Directory)
+  Weine Quiche (Cell Shop)
+  Q (Codes)
 
-   # Zoo Version 2 (Ithomiid Ubuntu)
+   # Zoo Version 2 (Lechwe Ubuntu)
    In the new version, you can 1) buy new plots of land, 2) see more zoomed-in versions of the habitat itself with a combination of ASCII and Unicode artistic symbols, and 3) "zoom in" on the animals and see the animals' names, ages, and any other needed information about them. 
 
    # Zooscape Website
